@@ -1,0 +1,3 @@
+C:/Users/quhao/Desktop/DC1/STM32TEST/STM32TEST1/cmake-build-debug/CMakeFiles/STM32TEST1.elf.dir
+C:/Users/quhao/Desktop/DC1/STM32TEST/STM32TEST1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/quhao/Desktop/DC1/STM32TEST/STM32TEST1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

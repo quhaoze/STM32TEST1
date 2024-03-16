@@ -1,0 +1,24 @@
+# ninja log v5
+12	175	7322175761111401	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj	de95f39ecb92ba23
+0	207	7322175761021442	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj	bd9f03990fc2a8fc
+27	213	7322175761421424	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj	247ee542a2c3c40f
+30	218	7322175761231428	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj	bb4f002f540acf28
+16	223	7322175761521392	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj	3e40ed1dd3d13cc3
+8	245	7322175761231428	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj	d09736fe68ae5b41
+40	250	7322175761171454	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj	bc2bc59f2d49e4ff
+34	255	7322175761221428	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj	aa9005a9919209d9
+24	260	7322175761541415	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj	2f60cc1ad23564aa
+4	266	7322175761541415	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj	cade423f7b92162a
+177	344	7322175762431404	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj	c82e1949ee2bac0c
+45	345	7322175762301416	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj	8038c282da3e3517
+213	359	7322175762741397	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj	1d724f130f6dd53c
+207	380	7322175763221404	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj	4b2d4e81ada02ceb
+245	381	7322175763221404	CMakeFiles/STM32TEST1.elf.dir/Src/stm32f0xx_hal_msp.c.obj	4ec93c4ddc73dc2d
+250	381	7322175763211425	CMakeFiles/STM32TEST1.elf.dir/Src/system_stm32f0xx.c.obj	d2741a3d2977c66f
+224	382	7322175763211425	CMakeFiles/STM32TEST1.elf.dir/Src/stm32f0xx_it.c.obj	461a46b40b264fab
+266	382	7322175763211425	CMakeFiles/STM32TEST1.elf.dir/Startup/startup_stm32f030f4px.s.obj	15e861ffbe90231
+218	382	7322175763211425	CMakeFiles/STM32TEST1.elf.dir/Src/main.c.obj	4bc2740dfaf0f5c6
+255	383	7322175763211425	CMakeFiles/STM32TEST1.elf.dir/Src/sysmem.c.obj	11139100b53adb2d
+260	393	7322175763361400	CMakeFiles/STM32TEST1.elf.dir/Src/syscalls.c.obj	17350a3fd4315687
+20	539	7322175764822271	CMakeFiles/STM32TEST1.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj	221d470ea32b8dea
+539	709	7322175765651383	STM32TEST1.elf	b0449db4b383294d
